@@ -188,7 +188,7 @@ nav {
   width: 980px;
   margin: 0 auto 0 auto;
   color: #FFF;
-  background: transparent url(../images/transparent.png);
+  background: transparent url(../images/transparent2.png);
 } 
 
 #menu_container { 
@@ -201,7 +201,7 @@ nav {
   overflow: hidden;
   margin: 0px auto 0 auto;
   padding: 25px;
-  background: transparent url(../images/transparent.png);
+  background: transparent url(../images/transparent2.png);
 } 
 
 #sidebar_container { 
@@ -286,7 +286,7 @@ footer {
   text-align: center; 
   color: #FFF;
   margin-top: 25px;
-  background: transparent url(../images/transparent.png);
+  background: transparent url(../images/transparent2.png);
 }
 
 footer p { 
