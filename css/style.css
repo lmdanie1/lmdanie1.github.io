@@ -267,14 +267,14 @@ nav {
 }
   
 .content ul { 
-  margin: 2px 0 25px 0px;
+  margin: 2px 0 22px 0px;
 }
 
 .content ul li, .sidebar ul li { 
   list-style-type: none;
   background: url(../images/bullet4.png) no-repeat;
   margin: 0 0 0 0; 
-  padding: 10px 0 0 15px;
+  padding: 0 0 10px 25px;
   line-height: 1.5em;
 }
 
