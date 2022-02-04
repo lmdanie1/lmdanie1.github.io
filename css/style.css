@@ -143,7 +143,7 @@ ol li {
 }
 
 header { 
-  background: transparent2;
+  background: transparent;
   height: 225px;
 }
 
@@ -189,7 +189,7 @@ nav {
   width: 980px;
   margin: 0 auto 0 auto;
   color: #FFF;
-  background: transparent2 url(../images/transparent2.png);
+  background: transparent url(../images/transparent2.png);
 } 
 
 #menu_container { 
@@ -202,7 +202,7 @@ nav {
   overflow: hidden;
   margin: 0px auto 0 auto;
   padding: 25px;
-  background: transparent2 url(../images/transparent2.png);
+  background: transparent url(../images/transparent2.png);
 } 
 
 #sidebar_container { 
@@ -275,7 +275,7 @@ nav {
   background: url(../images/bullet4.png) no-repeat;
   margin: 0 0 0 0; 
   padding: 0 0 4px 28px;
-  line-height: 1.5em;
+  line-height: 1em;
 }
 
 footer { 
@@ -287,7 +287,7 @@ footer {
   text-align: center; 
   color: #FFF;
   margin-top: 25px;
-  background: transparent2 url(../images/transparent2.png);
+  background: transparent url(../images/transparent2.png);
 }
 
 footer p { 
