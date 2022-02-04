@@ -40,7 +40,7 @@ img {
 }
 
 h1, h2, h3, h4, h5, h6 { 
-  color: #362C20;
+  color: #d65eae;
   letter-spacing: 0em;
   padding: 0 0 5px 0;
 }
@@ -55,7 +55,7 @@ h1, h2, h3 {
 h2 { 
   font-size: 160%;
   padding: 9px 0 5px 0;
-  color: #F67F00;
+  color: #d65eae;
 }
 
 h3 { 
@@ -64,7 +64,7 @@ h3 {
 }
 
 h4, h6 { 
-  color: #F67F00;
+  color: #d65eae;
   padding: 0 0 5px 0;
   font: normal 150% 'Yanone kaffeesatz', arial, sans-serif;
 }
@@ -169,7 +169,7 @@ header {
 }
 
 #logo_text h1 a .logo_colour { 
-  color: #09D4FF;
+  color: #d99cd3;
 }
 
 #logo_text a:hover .logo_colour { 
@@ -322,9 +322,9 @@ footer a:hover {
   padding: 5px; 
   width: 299px; 
   font: 100% arial; 
-  border: 1px solid #C6E7F0; 
-  background: #EFF8FB; 
-  color: #47433F;
+  border: 1px solid #dec1db; 
+  background: #f5e9f4; 
+  color: #362f35;
   border-radius: 7px 7px 7px 7px;
   -moz-border-radius: 7px 7px 7px 7px;
   -webkit-border: 7px 7px 7px 7px;  
@@ -338,7 +338,7 @@ footer a:hover {
   height: 33px;
   padding: 2px 0 3px 0;
   cursor: pointer; 
-  background: #1EC9F4; 
+  background: #09D4FF; 
   -webkit-border-radius: .5em .5em .5em .5em ; 
   -moz-border-radius: .5em .5em .5em .5em ;
   border-radius: .5em .5em .5em .5em ;
@@ -346,11 +346,11 @@ footer a:hover {
   -moz-box-shadow: 0 1px 2px rgba(0,0,0,.2);
   box-shadow: 0 1px 2px rgba(0,0,0,.2);  
   color: #FFF;
-  border: solid 1px #0D8AA9;
-  background: #46C4DD;
-  background: -webkit-gradient(linear, left top, left bottom, from(#63CFDF), to(#17B2D9));
-  background: -moz-linear-gradient(top,  #63CFDF,  #17B2D9);
-  text-shadow: 1px 1px #178497;
+  border: solid 1px #a62d7d;
+  background: #d65eae;
+  background: -webkit-gradient(linear, left top, left bottom, from(#09D4FF), to(#a62d7d));
+  background: -moz-linear-gradient(top,  #09D4FF,  #a62d7d);
+  text-shadow: 1px 1px #802260;
 }
 
 .form_settings textarea, .form_settings select { 
@@ -373,7 +373,7 @@ footer a:hover {
 .separator { 
   width: 100%;
   height: 0;
-  border-top: 1px solid #D9D5CF;
+  border-top: 1px solid #f5e9f4;
   border-bottom: 1px solid #FFF;
   margin: 0 0 20px 0;
 }
@@ -383,14 +383,14 @@ table {
 }
 
 table tr th, table tr td { 
-  background: #70D4E6;
+  background: #d99cd3;
   color: #FFF;
   padding: 7px 4px;
   text-align: left;
 }
   
 table tr td { 
-  background: #D3F2F7;
+  background: #dec1db;
   color: #47433F;
   border-top: 1px solid #FFF;
 }
@@ -516,7 +516,7 @@ ul#nav li a {
 }
 
 ul#nav li a:hover,ul#nav li a:focus { 
-  color: #0DBBD5;
+  color: #d65eae;
   text-shadow: none;
 }
 
