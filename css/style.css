@@ -27,6 +27,7 @@ article, aside, figure, footer, header, hgroup, nav, section {
 body { 
   font: normal .80em arial, sans-serif;
   background: #FFF url(../images/back2.png) no-repeat center fixed;
+  height: 100%;
   color: #DDD;
 }
 
