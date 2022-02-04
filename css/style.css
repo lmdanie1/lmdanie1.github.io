@@ -275,7 +275,8 @@ nav {
   background: url(../images/bullet4.png) no-repeat;
   margin: 0 0 0 0; 
   padding: 0 0 10px 30px;
-  vertical-align:middle;
+  vertical-align: middle;
+  text-align: center;
   line-height: 1.5em;
 }
 
