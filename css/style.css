@@ -27,6 +27,7 @@ article, aside, figure, footer, header, hgroup, nav, section {
 body { 
   font: normal .80em arial, sans-serif;
   background: #FFF url(../images/back2.png) no-repeat center fixed;
+  background-size: 100% 100%;
   color: #DDD;
 }
 
@@ -272,8 +273,9 @@ nav {
 .content ul li, .sidebar ul li { 
   list-style-type: none;
   background: url(../images/bullet4.png) no-repeat;
+  background-size: 75% 75%;
   margin: 0 0 0 0; 
-  padding: 0 0 0 0;
+  padding: 0 0 0 40px;
   line-height: 1.5em;
 }
 
