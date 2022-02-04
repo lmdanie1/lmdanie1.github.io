@@ -189,7 +189,7 @@ nav {
   width: 980px;
   margin: 0 auto 0 auto;
   color: #FFF;
-  background: transparent url(../images/transparent4.png);
+  background: transparent url(../images/transparent.png);
 } 
 
 #menu_container { 
@@ -202,7 +202,7 @@ nav {
   overflow: hidden;
   margin: 0px auto 0 auto;
   padding: 25px;
-  background: transparent url(../images/transparent4.png);
+  background: transparent url(../images/transparent.png);
 } 
 
 #sidebar_container { 
@@ -273,7 +273,6 @@ nav {
 .content ul li, .sidebar ul li { 
   list-style-type: none;
   background: url(../images/bullet4.png) no-repeat;
-  background-size: 75% 75%;
   margin: 0 0 0 0; 
   padding: 0 0 0 40px;
   line-height: 1.5em;
@@ -288,7 +287,7 @@ footer {
   text-align: center; 
   color: #FFF;
   margin-top: 25px;
-  background: transparent url(../images/transparent4.png);
+  background: transparent url(../images/transparent.png);
 }
 
 footer p { 
